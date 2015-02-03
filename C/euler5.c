@@ -2,14 +2,31 @@
 
 // main function to iter over 1-10;
 
-int divby10 = 2520;
-int i;
+
+int findRem(int curnum)
+{
+        for (double i=1; i<21; i++) {
+                double result = curnum / i;
+                if ( result == (int)result ) {
+                }
+		else {
+			return 0;
+		}
+        }
+	return curnum;
+
+}
+
  
 int main()
 {
-	for (i=1; i<11; i++) {
-		double result = 2520 / i;
-		printf( "%d divided by %d = %f\n", divby10, i, result);
-	} 
-	return 0;
+	for (int i=2520; i<990000000; i++) {
+		// printf("Current number: %d\n", i);
+		int x = findRem(i);
+		if ( x != 0 ) {
+			printf("Found it! Smallest num that can be divided by 1-20 with 0 remainder is: %d\n", i);
+			break;
+		}	
+	}
 }
+
