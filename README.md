@@ -2,7 +2,7 @@
 Code for the Project Euler challenges I have solved
 
 ID | Description / Title | Solved 
--- | ------------------- | ----- 
+--- | ------------------- | ----- 
 1	| Multiples of 3 and 5	| Yes 
 2	| Even Fibonacci numbers |
 3	| Largest prime factor  |
