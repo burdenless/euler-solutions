@@ -3,13 +3,13 @@ Code for the Project Euler challenges I have solved
 
 ID | Description / Title | Solved 
 --- | ------------------- | ----- 
-1	| Multiples of 3 and 5	| Yes 
-2	| Even Fibonacci numbers |
-3	| Largest prime factor  |
-4	| Largest palindrome product |
-5	| Smallest multiple  |
-6	| Sum square difference  |
-7	| st prime  |
+1	| Multiples of 3 and 5	| :white_check_mark: 
+2	| Even Fibonacci numbers | :white_check_mark: 
+3	| Largest prime factor  | :white_check_mark: 
+4	| Largest palindrome product | :white_check_mark: 
+5	| Smallest multiple  | :white_check_mark: 
+6	| Sum square difference  | :white_check_mark: 
+7	| 10001st prime  |
 8	| Largest product in a series |
 9	| Special Pythagorean triplet |
 10 |	Summation of primes |
@@ -27,7 +27,7 @@ ID | Description / Title | Solved
 22 |	Names scores |
 23 |	Non-abundant sums |
 24 |	Lexicographic permutations |
-25 |	-digit Fibonacci number |
+25 |	1000-digit Fibonacci number |
 26 |	Reciprocal cycles |
 27 |  Quadratic primes |
 28 |	Number spiral diagonals |
