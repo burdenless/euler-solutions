@@ -1,4 +1,4 @@
-# euler-solutions
+# Project Euler
 Code for the Project Euler challenges I have solved
 
 ID | Description / Title | Solved 
