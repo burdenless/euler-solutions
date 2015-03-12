@@ -1,5 +1,5 @@
 # Project Euler
-Code for the Project Euler challenges I have solved
+Code for the [Project Euler](https://projecteuler.net/about "Project Euler") challenges I have solved
 
 ID | Description / Title | Solved 
 --- | ------------------- | ----- 
