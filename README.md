@@ -9,7 +9,7 @@ ID | Description / Title | Solved
 4	| Largest palindrome product | :white_check_mark: 
 5	| Smallest multiple  | :white_check_mark: 
 6	| Sum square difference  | :white_check_mark: 
-7	| 10001st prime  |
+7	| 10001st prime  | :white_check_mark:
 8	| Largest product in a series |
 9	| Special Pythagorean triplet |
 10 |	Summation of primes |
