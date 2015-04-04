@@ -10,7 +10,7 @@ ID | Description / Title | Solved
 5	| Smallest multiple  | :white_check_mark: 
 6	| Sum square difference  | :white_check_mark: 
 7	| 10001st prime  | :white_check_mark:
-8	| Largest product in a series |
+8	| Largest product in a series | :white_check_mark:
 9	| Special Pythagorean triplet |
 10 |	Summation of primes |
 11 |	Largest product in a grid |
