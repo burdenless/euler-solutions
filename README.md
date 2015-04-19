@@ -3,7 +3,7 @@ Code for the [Project Euler](https://projecteuler.net/about "Project Euler") cha
 
 ID | Description / Title | Solved 
 --- | ------------------- | ----- 
-1	| Multiples of 3 and 5	| :white_check_mark: 
+1   	| Multiples of 3 and 5	| :white_check_mark: 
 2	| Even Fibonacci numbers | :white_check_mark: 
 3	| Largest prime factor  | :white_check_mark: 
 4	| Largest palindrome product | :white_check_mark: 
@@ -11,7 +11,7 @@ ID | Description / Title | Solved
 6	| Sum square difference  | :white_check_mark: 
 7	| 10001st prime  | :white_check_mark:
 8	| Largest product in a series | :white_check_mark:
-9	| Special Pythagorean triplet |
+9	| Special Pythagorean triplet | :white_check_mark:
 10 |	Summation of primes |
 11 |	Largest product in a grid |
 12 |	Highly divisible triangular number |

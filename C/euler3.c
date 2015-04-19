@@ -1,9 +1,12 @@
+// Project Euler: #3
+// <byt3smith>
+
 #include <stdio.h>
 #include <math.h>
 
 int main () {
 	double num = 600851475143;
-	
+
 	printf("Init Num: %f\n", num);
 	double factor;
 	double item;
@@ -13,7 +16,7 @@ int main () {
 		if (floorf(factor) == factor) {
 			printf("found factor: %f * %d\n", factor, i);
 			item = factor;
-		}			
+		}
 	}
 
         for (int i = 2; i < 1000000; i++) {

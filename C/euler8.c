@@ -2,8 +2,7 @@
 //  euler8.c
 //  Project Euler
 //
-//  Created by the Byt3smith on 3/29/15.
-//  Copyright (c) 2015 X-Posti Labs. All rights reserved.
+//  Developed by the Byt3smith on 3/29/15.
 //
 
 #include <stdio.h>

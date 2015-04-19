@@ -1,14 +1,17 @@
+// Project Euler: #2
+// <byt3smith>
+
 #include <stdio.h>
 
-/* 
+/*
 Function to run through the Fibonacci sequence and sum up the even numbers
-*/ 
+*/
 
 int main() {
 	int x = 1;
 	int y = 0;
 	int z;
-	int counter = 0;	
+	int counter = 0;
 	int xarray[33];
 	int sum = 0;
 
@@ -24,7 +27,7 @@ int main() {
 	printf( "counter = %d\n", counter);
 
 	int curvar = 0;
-	int xvar;	
+	int xvar;
 
 	for (int i = 0; i < counter; i++) {
 		xvar = xarray[i];

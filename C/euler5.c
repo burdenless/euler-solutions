@@ -1,3 +1,6 @@
+// Project Euler: #5
+// <byt3smith>
+
 #include <stdio.h>
 
 // main function to iter over 1-10;
@@ -17,7 +20,7 @@ int findRem(int curnum)
 
 }
 
- 
+
 int main()
 {
 	for (int i=2520; i<990000000; i++) {
@@ -26,7 +29,6 @@ int main()
 		if ( x != 0 ) {
 			printf("Found it! Smallest num that can be divided by 1-20 with 0 remainder is: %d\n", i);
 			break;
-		}	
+		}
 	}
 }
-
