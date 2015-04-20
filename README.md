@@ -12,7 +12,7 @@ ID | Description / Title | Solved
 7	| 10001st prime  | :white_check_mark:
 8	| Largest product in a series | :white_check_mark:
 9	| Special Pythagorean triplet | :white_check_mark:
-10 |	Summation of primes |
+10 |	Summation of primes | :white_check_mark:
 11 |	Largest product in a grid |
 12 |	Highly divisible triangular number |
 13 |	Large sum |

@@ -7,7 +7,6 @@
 
 #include <stdio.h>
 #include <math.h>
-typedef enum { false, true } bool;
 
 int main () {
   int sum = 1000;
