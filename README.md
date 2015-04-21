@@ -53,4 +53,28 @@ ID | Description / Title | Solved
 48 |	Self powers |
 49 |	Prime permutations |
 50 |	Consecutive prime sum |
-
+51 |	Prime digit replacements |	
+52 |	Permuted multiples |
+53 |	Combinatoric selections	|
+54 |	Poker hands	|
+55 |	Lychrel numbers	|
+56 |	Powerful digit sum	|
+57 |	Square root convergents	|
+58 |	Spiral primes	|
+59 |	XOR decryption |	
+60 |	Prime pair sets	|
+61 |	Cyclical figurate numbers	|
+62 |	Cubic permutations	|
+63 |	Powerful digit counts	|
+64 |	Odd period square roots |	
+65 |	Convergents of e |
+66 |	Diophantine equation |	
+67 |	Maximum path sum II	|
+68 |	Magic 5-gon ring |
+69 |	Totient maximum	|
+70 |	Totient permutation |	
+71 |	Ordered fractions	|
+72 |	Counting fractions	|
+73 |	Counting fractions in a range	|
+74 |	Digit factorial chains	|
+75 |	Singular integer right triangles |
