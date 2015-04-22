@@ -61,7 +61,7 @@ ID | Description / Title | Solved
 56 |	Powerful digit sum	|
 57 |	Square root convergents	|
 58 |	Spiral primes	|
-59 |	XOR decryption |	
+59 |	XOR decryption | :white_check_mark:	
 60 |	Prime pair sets	|
 61 |	Cyclical figurate numbers	|
 62 |	Cubic permutations	|
