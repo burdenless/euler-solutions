@@ -47,16 +47,16 @@ def main():
                         for y in lowercase:
                             res3 = ord(y) ^ int(data[index+2])
                             if res3 == ord('e'):
-                                chain.append([chr(int(data[index])), i, chr(res)])
-                                chain.append([chr(int(data[index+1])), x, chr(res2)])
-                                chain.append([chr(int(data[index+2])), y, chr(res3)])
+                                chain.append([i, chr(res)])
+                                chain.append([x, chr(res2)])
+                                chain.append([y, chr(res3)])
 
         if len(chain) >= 1:
             key = ''
             str = ''
             for i in chain:
-                key += (i[1])
-                str += (i[2])
+                key += (i[0])
+                str += (i[1])
             if str == 'the':
                 posskeys.append(key)
 
